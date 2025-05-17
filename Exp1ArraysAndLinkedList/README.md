@@ -1,4 +1,3 @@
-demo output -
 
 workedout output - https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1ArraysAndLinkedList/ArrayWorkedOutEx.png
 1 output - https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1ArraysAndLinkedList/p1.png
