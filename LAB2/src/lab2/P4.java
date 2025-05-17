@@ -1,3 +1,12 @@
+/*
+Write a Java program to check whether a map contains Key-Values mappings (empty) or not
+ after adding all the  following elements into Hashmap and after removing all the elements from
+ the Hashmap. 
+ (1, "Red"),(2, "Green"), (3, "Black"),  (4, "White"),(5, "Blue")
+	*/
+
+
+
 package lab2;
 
 import java.util.HashMap;
