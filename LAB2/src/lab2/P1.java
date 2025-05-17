@@ -1,3 +1,12 @@
+/*
+Write a Java program to traverse / iterate all the keys with  the specified value in a linked 
+HashMap  (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”) and display 
+only elderly entered 4 elements only
+	*/
+
+
+
+
 package lab2;
 // Hashmap
 //1. Write a Java program to traverse / iterate all the keys with  the specified value in a HashMap 
