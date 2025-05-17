@@ -2,7 +2,7 @@ Demo - https://github.com/Sharath8i/Advanced-Java/blob/main/Lab2/ex1/demo.png
 
 1 output - https://github.com/Sharath8i/Advanced-Java/blob/main/Lab2/ex1/1output.png
 
-2 output - https://github.com/prakhyat006/Basic-Of-java-Programming/blob/main/Lab2/ex1/2output.png
+2 output - https://github.com/Sharath8i/Advanced-Java/blob/main/Lab2/ex1/2output.png
 
 3 output - https://github.com/Sharath8i/Advanced-Java/blob/main/Lab2/ex1/p3output.png
 
