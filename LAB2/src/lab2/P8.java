@@ -1,3 +1,10 @@
+/*
+ Write a Java program to get the first (lowest) key and the last (highest) key currently in the 
+following Treemap.
+ ("C2", "Red"),("C1", "Green"), ("C4", "Black"), ("C3", "White")
+	 */
+
+
 package lab2;
 
 import java.util.*;
