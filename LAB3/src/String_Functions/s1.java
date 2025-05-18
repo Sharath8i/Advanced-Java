@@ -1,9 +1,5 @@
-/*g
- 1. Question: Given a string, write a method to determine if it is a palindrome (reads the same 
-forward and backward), ignoring case and non-alphanumeric characters. Input: "A man, a plan, 
-a canal: Panama"
-Output: true Input: "race a car"
- Output: false */
+/Write a Java Program for Checking if a given string is null or contains only whitespace using user
+defined function isNullOrEmpty().*/
 
 
 
