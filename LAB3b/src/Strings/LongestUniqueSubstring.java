@@ -1,3 +1,11 @@
+/*Question: Create a method that finds the longest substring without repeating characters in a 
+given string. Input: "abcabcbb"
+ Output: "abc" (or "cab" or "abc" - any substring of length 3 without repeating characters) 
+Input: "bbbbb"
+ Output: "b" Input: "pwwkew"
+ Output: "wke" (or "kew")  */
+
+
 package Strings;
 import java.util.*;
 public class LongestUniqueSubstring {

@@ -1,3 +1,5 @@
+/* Write a Java program to search for keys C4 and C5 are present or not  in the following Tree Map.
+ ("C1", "Red"); ("C2", "Green"); ("C3", "Black");("C4", "White")  */
 package lab2;
 
 import java.util.HashMap;

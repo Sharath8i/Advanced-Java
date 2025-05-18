@@ -1,3 +1,6 @@
+/*Write a Java program to copy all mappings from the specified map to another map as shown below
+ Hashmap1  => ( 1, "Red") ,(2, "Green"), (3, "Black")
+ Hashmap2  => (4, "White"),(5, "Blue"),(6, "Orange") */
 package lab2;
 
 import java.util.HashMap;

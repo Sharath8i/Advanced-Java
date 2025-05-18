@@ -1,3 +1,10 @@
+/*Question: Create a method using StringBuilder to insert a space after every n characters in a 
+string, except at the end. Input: "ABCDEFGHIJKLMNOPQR", n=4
+ Output: "ABCD EFGH IJKL MNOP QR" Input: "programming", n=3
+ Output: "pro gra mmi ng */
+
+
+
 package Strings;
 
 public class InsertSpaces {

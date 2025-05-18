@@ -1,3 +1,8 @@
+/*Question: Write a method using StringBuffer to efficiently remove all occurrences of a given 
+character from a string. Input: "programming", character: 'm'
+ Output: "prograing" Input: "banana", character: 'a'
+ Output: "bnn" */
+
 package Strings;
 
 public class RemoveCharacter {

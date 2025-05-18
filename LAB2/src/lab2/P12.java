@@ -1,3 +1,6 @@
+/*Add elements in the same order in the LinkedHaspMap using for() loop and put()
+    String[] keys = {"C", "A", "B", "E", "D"};
+    Integer[] values = {3, 1, 2, 5, 4} */
 package lab2;
 
 import java.util.LinkedHashMap;

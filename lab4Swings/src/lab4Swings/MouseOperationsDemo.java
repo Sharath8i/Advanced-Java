@@ -1,3 +1,7 @@
+/*Develop a simple swing program for illustrating mouse operations such as mouse down, up
+ double click , single click with help of a button */
+
+
 package lab4Swings;
 
 import javax.swing.*;

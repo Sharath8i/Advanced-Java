@@ -1,3 +1,9 @@
+/*Question: Write a method that takes a string and returns the first non-repeated character. If all 
+characters are repeated, return null. Input: "swiss"
+ Output: "w" Input: "aabb"
+ Output: null */
+
+
 package Strings;
 
 public class FirstNonRepeated {

@@ -1,3 +1,9 @@
+/*Question: Implement a method using StringBuffer to reverse every word in a sentence while 
+maintaining the word order. Input: "Java programming is fun"
+ Output: "avaJ gnimmargorp si nuf" Input: "Hello World"
+ Output: "olleH dlroW"  */
+
+
 package Strings;
 
 public class ReverseWords {

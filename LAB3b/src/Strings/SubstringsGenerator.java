@@ -1,3 +1,9 @@
+/*Question: Implement a method using StringBuilder to efficiently generate all possible 
+substrings of a given string. Input: "abc"
+ Output: ["a", "ab", "abc", "b", "bc", "c"] Input: "xy"
+ Output: ["x", "xy", "y"]  */
+
+
 package Strings;
 import java.util.*;
 public class SubstringsGenerator {

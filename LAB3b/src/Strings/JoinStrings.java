@@ -1,3 +1,8 @@
+/*Question: Write a method that joins an array of strings with a specified delimiter, without using 
+built-in join methods. Input: ["apple", "banana", "cherry"], delimiter: ", "
+ Output: "apple, banana, cherry" Input: ["Java", "is", "fun"], delimiter: "-"
+ Output: "Java-is-fun" */
+
 package Strings;
 
 public class JoinStrings {

@@ -1,3 +1,6 @@
+/*Include the following elements into the LinkedHashMap called programminglanguages and print all
+ of them.
+ ("Java", 1995);("Python", 1991);(“JavaScript", 1995);("C++", 1985); */
 package lab2;
 
 import java.util.*;

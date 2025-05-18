@@ -1,3 +1,9 @@
+/* Question: Implement a method that concatenates alternating characters from two input strings. 
+If one string is longer than the other, append the remaining characters. Input: "abc", "123"
+ Output: "a1b2c3" Input: "hello", "world!"
+ Output: "hweolrllod!"  */
+
+
 package Strings;
 
 public class Amerge {
