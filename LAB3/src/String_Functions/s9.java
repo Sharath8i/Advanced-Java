@@ -1,5 +1,12 @@
 /*Write a Java Program for Creating a random string of a specified length using user defined
+<<<<<<< HEAD
 function generateRandomString() */
+=======
+function generateRandomString()*/
+
+
+
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 
 package String_Functions;
 import java.util.Random;

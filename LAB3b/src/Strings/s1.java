@@ -1,8 +1,19 @@
+<<<<<<< HEAD
 /* Question: Given a string, write a method to determine if it is a palindrome (reads the same 
 forward and backward), ignoring case and non-alphanumeric characters. Input: "A man, a plan, 
 a canal: Panama"
 Output: true Input: "race a car"
  Output: false  */
+=======
+/*Given a string, write a method to determine if it is a palindrome (reads the same 
+forward and backward), ignoring case and non-alphanumeric characters. Input: "A man, a plan, 
+a canal: Panama"
+Output: true Input: "race a car"
+ Output: false */
+
+
+
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 
 package Strings;
 

@@ -1,6 +1,14 @@
 /* Develop a Java program to make a  Performance Test on  StringBuffer and StringBuilder for 
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify 
+<<<<<<< HEAD
 your answer which one is better */
+=======
+your answer which one is better.*/
+
+
+
+
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 
 package Strings;
 

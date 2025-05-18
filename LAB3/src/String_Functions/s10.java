@@ -1,5 +1,11 @@
 /*Write a Java Program for Counting the number of words in a string using user defined function
+<<<<<<< HEAD
 countWords() */
+=======
+countWords()*/
+
+
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 
 
 package String_Functions;

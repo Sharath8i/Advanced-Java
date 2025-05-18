@@ -1,5 +1,9 @@
 /*Write a Java Program for Verifying if a string contains only numeric characters using user defined
+<<<<<<< HEAD
 function isNumeric() */
+=======
+function isNumeric()*/
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 
 
 

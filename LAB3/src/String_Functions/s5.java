@@ -1,5 +1,9 @@
 /*Write a Java Program for Eliminating all whitespace characters from a string using user defined
+<<<<<<< HEAD
 function removeWhitespace() */
+=======
+function removeWhitespace()*/
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 
 
 package String_Functions;

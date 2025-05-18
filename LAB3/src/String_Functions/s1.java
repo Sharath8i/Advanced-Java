@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 /*Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty(). */
+=======
+/Write a Java Program for Checking if a given string is null or contains only whitespace using user
+defined function isNullOrEmpty().*/
+
+
+
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 package String_Functions;
 
 public class s1 {

@@ -1,5 +1,9 @@
 /*Write a Java Program for Reversing the characters in a string using user defined function
+<<<<<<< HEAD
 reverseString(). */
+=======
+reverseString().*/
+>>>>>>> dd706ae782b347f1c09244301140b138da18e75c
 
 
 package String_Functions;
