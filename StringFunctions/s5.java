@@ -1,0 +1,20 @@
+/*Write a Java Program for Eliminating all whitespace characters from a string using user defined
+function removeWhitespace() */
+
+package String_Functions;
+
+public class s5 {
+	
+	    public static String removeWhitespace(String str) {
+	        if (str == null) {
+	            return null;
+	        }
+			// this replace all is used to removewhite spaces 
+	        return str.replaceAll("\\s+", "");
+	    }
+	    public static void main(String[] args) {
+	        String str = " Hello World ";
+	        System.out.println("Without whitespace: '" + removeWhitespace(str) + "'"); 
+	    }
+
+}
