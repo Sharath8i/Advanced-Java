@@ -17,3 +17,5 @@ ReverseWords output - https://github.com/Sharath8i/Advanced-Java/blob/main/LAB3B
 vowel output - https://github.com/Sharath8i/Advanced-Java/blob/main/LAB3B/vowel.png
 
 SubstringsGenerator output - https://github.com/Sharath8i/Advanced-Java/blob/main/LAB3B/SubstringsGenerator.png
+
+s1 output -https://github.com/Sharath8i/Advanced-Java/blob/main/LAB3B/s1.png
