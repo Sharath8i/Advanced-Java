@@ -1,7 +1,5 @@
-/*. Question: Implement a method that counts the number of vowels (a, e, i, o, u) in a given string, 
-case-insensitive. Input: "Hello World"
- Output: 3 Input: "Programming Interview"
- Output: 6 */
+/*. Write a Java Program for Counting how many times a substring appears in a main string
+using user defined function countOccurrences()*/
 
 
 
