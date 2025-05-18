@@ -1,3 +1,11 @@
+/*. Question: Implement a method that counts the number of vowels (a, e, i, o, u) in a given string, 
+case-insensitive. Input: "Hello World"
+ Output: 3 Input: "Programming Interview"
+ Output: 6 */
+
+
+
+
 package String_Functions;
 
 public class s2 {
