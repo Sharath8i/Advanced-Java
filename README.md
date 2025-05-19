@@ -23,16 +23,26 @@ Adding elements, 2. Adding element at specific index, 3. Adding multiple element
 
 [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p5output.png)
 
-1c. Linked List Programs
-Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1)) 🔗 Output Screenshot
+## 1c. Linked List Programs
+1.Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1)) 
 
-Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator()) 🔗 Output Screenshot
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p6output.png)
 
-Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink")) 🔗 Output Screenshot
+2.Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator()) 
 
-Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) ) 🔗 Output Screenshot
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p7output.png)
 
-Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2)) 🔗 Output Screenshot
+3.Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink")) 
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p8output.png)
+
+4.Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) ) 
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p9output.png)
+
+5.Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2)) 
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p10output.png)
 
 2a. Develop a Java program for adding elements [Apple, Banana, Orange] into HashSet, TreeSet and LinkedHashSet to perform the following operations directed as follows
 HashSet Demonstration :HashSet after adding elements: [Apple, Orange, Banana], Size of HashSet: 3, Is HashSet empty? false, Contains 'Apple'? true, Contains 'Grape'? False, After removing 'Banana': [Apple, Orange] TreeSet Demonstration : TreeSet (automatically sorted): [Elephant, Lion, Tiger, Zebra] LinkedHashSet Demonstration: LinkedHashSet (maintains insertion order): [Red, Green, Blue] Set Operations Demonstration:Union of sets: [1, 2, 3, 4, 5, 6, 7, 8], Intersection of sets: [4, 5] Difference of sets (set1 - set2): [1, 2, 3] Iteration Demonstration : Using for-each loop,Using Iterator 🔗 Output Screenshot
