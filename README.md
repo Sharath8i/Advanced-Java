@@ -2,8 +2,10 @@
 Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list 
 
 [Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/exprogramoutput.png)
-1b. Array List programs
-Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not 🔗 Output Screenshot
+## 1b. Array List programs
+Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
+
+[Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p1output.png)
 
 Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList 🔗 Output Screenshot
 
