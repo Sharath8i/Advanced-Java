@@ -107,49 +107,49 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 
 1.Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/S1%20(2).png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/isNullOrEmpty.png)
 
 2.Write a Java Program for Counting how many times a substring appears in a main stringusing user defined function countOccurrences()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s2.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/countOccurrences.png)
 
 3.Write a Java Program for Reversing the characters in a string using user defined functionreverseString().
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s3.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/reverseString.png)
 
 
 4.Write a Java Program for Checking if a string reads the same backward as forward (ignoring caseand punctuation) using user defined function isPalindrome():
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s4.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/isPalindrome.png)
 
 
 5.Write a Java Program for Eliminating all whitespace characters from a string using user definedfunction removeWhitespace()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s5.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/removeWhitespace.png)
 
 
 6.Write a Java Program for Capitalizing the first letter of each word. using user defined functioncapitalizeWords()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s6.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/capitalizeWords.png)
 
 
 7.Write a Java Program for Shortening a string to a specified length and adds an ellipsis using userdefined function truncate()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s7.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/truncate.png)
 
 8.Write a Java Program for Verifying if a string contains only numeric characters using user definedfunction isNumeric()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s8.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/isNumeric.png)
 
 
 Q9. Write a Java Program for Creating a random string of a specified length using user definedfunction generateRandomString()\\
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s9.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/generateRandomString.png)
 
 
 Q10. Write a Java Program for Counting the number of words in a string using user defined functioncountWords()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s10.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/StringOperations/countWords.png)
 
 
 ## 3b. String Exercise progams
