@@ -49,8 +49,8 @@ HashSet Demonstration :HashSet after adding elements: [Apple, Orange, Banana], S
 
 [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp2-SetInterface/map.png)
 
-2b. Map Excercises
-HashMap
+
+## HashMap
 1.Write a Java program to traverse / iterate all the keys with the specified value in a HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”) [ hint : 6. Iterating Over Map in the worked out example] 
 
 [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp2-SetInterface/p1.png)
@@ -66,8 +66,7 @@ HashMap
 4.Write a Java program to check whether a map contains Key-Values mappings (empty) or not after adding all the following elements into Hashmap and after removing all the elements from the Hashmap. (1, "Red"),(2, "Green"), (3, "Black"), (4, "White"),(5, "Blue")
 
 [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp2-SetInterface/p4.png)
-
-TreeMap
+## TreeMap
 1.Write a Java program to traverse / iterate all the keys with the specified value in a TreeMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”) [ hint : put() ; for (Map.Entry<Integer,String> entry : tree_map.entrySet()); getKey() and getValue()] 
 
 [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp2-SetInterface/p5.png)
