@@ -153,30 +153,88 @@ Q10. Write a Java Program for Counting the number of words in a string using use
 [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3a-StringOperations/s10.png)
 
 
-
-
-
 ## 3b. String Exercise progams
-Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty(). 🔗 Output Screenshot
+### Develop a Java program to make a  Performance Test on  StringBuffer and StringBuilder for 
+appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify 
+your answer which one is better
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/PerformanceTest.png)
 
-Q2. Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences() 🔗 Output Screenshot
+## String
+ 1. Question: Given a string, write a method to determine if it is a palindrome (reads the same forward and backward), ignoring case and non-alphanumeric characters.
+    Input: "A man, a plan, a canal: Panama"  Output: false
+    Input: "race a car" Output: false Output: true
 
-Q3. Write a Java Program for Reversing the characters in a string using user defined function reverseString(). 🔗 Output Screenshot
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/s1.png)
 
-Q4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case and punctuation) using user defined function isPalindrome(): 🔗 Output Screenshot
+2. Question: Implement a method that counts the number of vowels (a, e, i, o, u) in a given string, case-insensitive. Input: "Hello World"
+ Output: 3 Input: "Programming Interview"
+ Output: 6
 
-Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace() 🔗 Output Screenshot
+ [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/vowel.png)
 
-3c. String Exercise progams
-Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords() 🔗 Output Screenshot
 
-Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate() 🔗 Output Screenshot
 
-Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric() 🔗 Output Screenshot
+## Joining Strings
+ 1. Question: Write a method that joins an array of strings with a specified delimiter, without using built-in join methods.
+ Input: ["apple", "banana", "cherry"], delimiter: ", " Output: "apple, banana, cherry"
+ Input: ["Java", "is", "fun"], delimiter: "-"
+ Output: "Java-is-fun"
 
-Q9. Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString() 🔗 Output Screenshot
+ [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/JoinStrings.png)
 
-Q10. Write a Java Program for Counting the number of words in a string using user defined function countWords() 🔗 Output Screenshot
+
+2. Question: Implement a method that concatenates alternating characters from two input strings. If one string is longer than the other, append the remaining characters.
+ Input: "abc", "123" Output: "a1b2c3"
+ Input: "hello", "world!" Output: "hweolrllod!"
+
+ [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/Amerge.png)
+
+## Additional String Methods
+ 1. Question: Create a method that finds the longest substring without repeating characters in a given string.
+ Input: "abcabcbb"
+Output: "abc" (or "cab" or "abc" - any substring of length 3 without repeating characters) 
+ Input: "bbbbb"
+ Output: "b"
+ Input: "pwwkew"
+ Output: "wke" (or "kew")
+
+ [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/LongestUniqueSubstring.png)
+ 
+2. Question: Write a method that takes a string and returns the first non-repeated character. If all characters are repeated, return null.
+ Input: "swiss" Output: "w"
+ Input: "aabb" Output: null
+
+ [🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/FirstNonRepeated.png)
+
+## StringBuffer
+ 1. Question: Implement a method using StringBuffer to reverse every word in a sentence while maintaining the word order.
+ Input: "Java programming is fun" Output: "avaJ gnimmargorp si nuf"
+ Input: "Hello World" Output: "olleH dlroW"
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/ReverseWords.png)
+
+2. Question: Write a method using StringBuffer to efficiently remove all occurrences of a given character from a string.
+Input: "programming", character: 'm' Output: "prograing"
+Input: "banana", character: 'a' Output: "bnn"
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/RemoveCharacter.png)
+
+## StringBuilder
+ 1. Question: Implement a method using StringBuilder to efficiently generate all possible substrings of a given string.
+Input: "abc" Output: ["a", "ab", "abc", "b", "bc", "c"]
+Input: "xy"Output: ["x", "xy", "y"]
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/SubstringsGenerator.png)
+
+3. Question: Create a method using StringBuilder to insert a space after every n characters in a string, except at the end.
+ Input: "ABCDEFGHIJKLMNOPQR", n=4  Output: "ABCD EFGH IJKL MNOP QR"
+ Input: "programming", n=3  Output: "pro gra mmi ng
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp3b-StringPerformanceTest/InsertSpaces.png)
+
+
+
+
 
 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
 🔗 Output Screenshot
