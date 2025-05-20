@@ -271,11 +271,16 @@ Input: "xy"Output: ["x", "xy", "y"]
 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 🔗 Output Screenshot
 
-7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
-🔗 Output Screenshot 1 🔗 Output Screenshot 2 🔗 Output Screenshot 3
+## 7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
+[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/Session%20Management/Session%20Management%201.png)
+[🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/Session%20Management/Session%20Management%202.png)
+[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/Session%20Management/Session%20Management%203.png)
+[🔗 Output Screenshot 4](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/Session%20Management/Session%20Management%204.png)
 
-7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
-🔗 Output Screenshot 1 🔗 Output Screenshot 2
+## 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
+[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/CookieManagement/Cookie%20Management1.png)
+[🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/CookieManagement/Cookie%20Management2.png)
+[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/CookieManagement/Cookie%20Management3.png)
 
 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 🔗 Output Screenshot
