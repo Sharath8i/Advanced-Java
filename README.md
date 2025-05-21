@@ -282,17 +282,24 @@ Input: "xy"Output: ["x", "xy", "y"]
 [🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/CookieManagement/Cookie%20Management2.png)
 [🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced-Java/blob/main/Lab7Servlet/CookieManagement/Cookie%20Management3.png)
 
-8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
-🔗 Output Screenshot
+## 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it 
 
-8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
-🔗 Output Screenshot
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/Mysql_select.png)
 
-8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
-🔗 Output Screenshot 1 🔗 Output Screenshot 2
+## 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id.
+
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/Mysql_Update.png)
+
+## 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
+
+[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/report.png) 
+🔗 Output Screenshot 2
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
-🔗 Output Screenshot 1 🔗 Output Screenshot 2 🔗 Output Screenshot 3
+
+[🔗 Output Screenshot 1 ](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/update.png)
+[🔗 Output Screenshot 2 ](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/update1.png)
+[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/update2.png)
 
 9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 🔗 Output Screenshot
