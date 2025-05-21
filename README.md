@@ -5,44 +5,44 @@ Adding elements, 2. Adding element at specific index, 3. Adding multiple element
 ## 1b. Array List programs
 1.Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
 
-[Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p1output.png)
+[Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/Colorsearch.png)
 
 2.Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList 
 
-[Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p2output.png)
+[Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/RemoveColors.png)
 
 3.Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj) 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p3output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/SortColors.png)
 
 4.Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p4output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/SubListColors.png)
 
 5.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p5output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/delete.png)
 
 ## 1c. Linked List Programs
 1.Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1)) 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p6output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/IterateFromSecond.png)
 
 2.Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator()) 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p7output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/ReverseIterate.png)
 
 3.Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink")) 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p8output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/InsertAtEnd.png)
 
 4.Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) ) 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p9output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/DisplayWithPositions.png)
 
 5.Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2)) 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p10output.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/SwapElements.png)
 
 ## 2. Develop a Java program for adding elements [Apple, Banana, Orange] into HashSet, TreeSet and LinkedHashSet to perform the following operations directed as follows
 HashSet Demonstration :HashSet after adding elements: [Apple, Orange, Banana], Size of HashSet: 3, Is HashSet empty? false, Contains 'Apple'? true, Contains 'Grape'? False, After removing 'Banana': [Apple, Orange] TreeSet Demonstration : TreeSet (automatically sorted): [Elephant, Lion, Tiger, Zebra] LinkedHashSet Demonstration: LinkedHashSet (maintains insertion order): [Red, Green, Blue] Set Operations Demonstration:Union of sets: [1, 2, 3, 4, 5, 6, 7, 8], Intersection of sets: [4, 5] Difference of sets (set1 - set2): [1, 2, 3] Iteration Demonstration : Using for-each loop,Using Iterator 
