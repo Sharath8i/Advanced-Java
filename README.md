@@ -295,20 +295,26 @@ Input: "xy"Output: ["x", "xy", "y"]
 [🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/report.png) 
 🔗 Output Screenshot 2
 
-8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
+## 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
 
 [🔗 Output Screenshot 1 ](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/update.png)
 [🔗 Output Screenshot 2 ](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/update1.png)
 [🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced-Java/blob/main/EXP%208/update2.png)
 
-9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
-🔗 Output Screenshot
+## 9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id.
 
-9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively
-🔗 Output Screenshot
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp9-SQL%2BJDBC/Mysql_Delete.png)
 
-9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
-🔗 Output Screenshot 1 🔗 Output Screenshot 2
+## 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table .
 
-9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘ID’ through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
-🔗 Output Screenshot 1 🔗 Output Screenshot 2
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp9-SQL%2BJDBC/Mysql_Delete.png)
+
+## 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
+
+[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp9-SQL%2BJDBC/Filter%20(2).png)
+[🔗 Output Screenshot 2]
+
+## 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘ID’ through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
+
+[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp9-SQL%2BJDBC/Delete.png)
+[🔗 Output Screenshot 2]
